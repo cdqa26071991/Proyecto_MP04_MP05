@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Cocina
+@* 
+<div class="text-center">
+    <h1 class="display-4"><font face="nunito,arial,verdana">COCINA</font></h1>
+    <a href="https://docs.microsoft.com/aspnet/core"></a>
+    <p>@Model.image</p>
+    <img src="@Model.image">
+    
+</div>
+     *@
+
+<div class="text-center">
+  <h1>Presentación de Comidas al Estilo Biriyani de la India</h1>
+</div>
+
+
+<div class="card mx-auto" style="width: 400px">
+  <img class="card-img-top" src="@Model.image" alt="Card image">
+  <div class="card-body text-center">
+    <h4 class="card-title">Comida 1</h4>
+    <p class="card-text">Especial en Arroz</p>
+    <a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Index">Ver Comida</a>
+                      
+  </div>
+</div>
+
+
+<div class="mx-auto" style="width: 400px">
+  <div class="card">
+    <img class="card-img-top" src="@Model.image" alt="Card image">
+    <div class="card-body text-center">
+      <h4 class="card-title">Comida 2</h4>
+      <p class="card-text">Especial en Arroz</p>
+      <a class="btn btn-primary" asp-area="" asp-controller="Home" asp-action="Index">Ver Comida</a>
+    </div>
+  </div>
+</div>

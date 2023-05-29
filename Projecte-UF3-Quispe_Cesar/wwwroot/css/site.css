@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: blueviolet;
+}
+
+.card-title {
+  margin-bottom: .5rem;
+  background-color: #e9e2e2;
+}
+
+.bg-white {
+
+  background-color:blue;
+}
+
+.container-fluid{
+  background-color: aqua;
+}

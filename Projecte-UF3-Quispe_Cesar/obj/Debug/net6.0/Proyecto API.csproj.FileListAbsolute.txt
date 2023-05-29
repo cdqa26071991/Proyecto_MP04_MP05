@@ -1,0 +1,28 @@
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.csproj.AssemblyReference.cache
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.AssemblyInfoInputs.cache
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.AssemblyInfo.cs
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.csproj.CoreCompileInputs.cache
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.MvcApplicationPartsAssemblyInfo.cache
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.RazorAssemblyInfo.cache
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.RazorAssemblyInfo.cs
+D:\Proyecto API\bin\Debug\net6.0\appsettings.Development.json
+D:\Proyecto API\bin\Debug\net6.0\appsettings.json
+D:\Proyecto API\bin\Debug\net6.0\Proyecto API.staticwebassets.runtime.json
+D:\Proyecto API\bin\Debug\net6.0\Proyecto API.exe
+D:\Proyecto API\bin\Debug\net6.0\Proyecto API.deps.json
+D:\Proyecto API\bin\Debug\net6.0\Proyecto API.runtimeconfig.json
+D:\Proyecto API\bin\Debug\net6.0\Proyecto API.dll
+D:\Proyecto API\bin\Debug\net6.0\Proyecto API.pdb
+D:\Proyecto API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Proyecto API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Proyecto API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Proyecto API\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Proyecto API\obj\Debug\net6.0\scopedcss\bundle\Proyecto API.styles.css
+D:\Proyecto API\obj\Debug\net6.0\scopedcss\projectbundle\Proyecto API.bundle.scp.css
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.csproj.CopyComplete
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.dll
+D:\Proyecto API\obj\Debug\net6.0\refint\Proyecto API.dll
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.pdb
+D:\Proyecto API\obj\Debug\net6.0\Proyecto API.genruntimeconfig.cache
+D:\Proyecto API\obj\Debug\net6.0\ref\Proyecto API.dll
